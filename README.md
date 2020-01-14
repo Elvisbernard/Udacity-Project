@@ -6,7 +6,7 @@ The data used in the project van be found at :
 https://insights.stackoverflow.com/survey
 
 A summary of the work can be found at:
-bernardesite.wordpress.com/2020/01/14/data-analytic-has-not-really-evolved-since-metoo-or-has-it/
+http://bernardesite.wordpress.com/2020/01/14/data-analytic-has-not-really-evolved-since-metoo-or-has-it/
 
 Dependency:
 numpy
